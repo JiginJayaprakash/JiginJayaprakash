@@ -4,4 +4,10 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiginJayaprakash&hide_progress=true)
+
+
+![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
+
+
 
