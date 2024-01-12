@@ -3,7 +3,7 @@
 - Worked on various languages like javascript, C#, typescript, Python , SQL
 - And Technologies like ReactJs, MS SQL, Asp.net MVC, Jquery,Azure Logic App/Function App, Azure CosmosDB - NOSQL, Angular JS/Angular 5, NodeJs/Express, HTML/CSS, Github & TFS,.Net Core, Elastic Search Kibana, Entity Framework
 - I’m currently learning MongoDB , Rust and Python with django framework. Also some docker stuff.
-- I’m looking to  full-time job opportunity where I can contribute and learn new technologies
+- I’m looking for a full-time job opportunity where I can contribute and learn new technologies
 - How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=JiginJayaprakash&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
