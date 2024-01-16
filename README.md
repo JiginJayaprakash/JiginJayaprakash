@@ -6,11 +6,16 @@
 - I’m looking for a full-time job opportunity where I can contribute and learn new technologies
 - How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=JiginJayaprakash&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiginJayaprakash&hide_progress=true)
 
-![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
+### GitHub Stats
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=JiginJayaprakash" width="600" /></a>
+
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=JiginJayaprakash" width="600" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JiginJayaprakash&show_icons=true&theme=ambient_gradient" width="600" />
 
 ## Tech Stack
 <div align="center">
