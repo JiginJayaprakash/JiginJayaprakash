@@ -8,14 +8,14 @@
 
 ![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiginJayaprakash&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiginJayaprakash&hide_progress=true&exclude_repo=portfolio&hide=html,css,handlebars&langs_count=8)
 
 ### GitHub Stats
 <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=JiginJayaprakash" width="600" /></a>
 
 <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=JiginJayaprakash" width="600" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JiginJayaprakash&show_icons=true&theme=ambient_gradient" width="600" />
+<img src="https://github-readme-stats.vercel.app/api?username=JiginJayaprakash&rank_icon=github&show_icons=true&theme=ambient_gradient" width="600" />
 
 ## Tech Stack
 <div align="center">
