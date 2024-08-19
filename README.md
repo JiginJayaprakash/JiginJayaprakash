@@ -2,21 +2,14 @@
 - I am Software Developer , having experience of more than 8 years in various windows and web development
 - Worked on various languages like javascript, C#, typescript, Python , SQL
 - And Technologies like ReactJs, MS SQL, Asp.net MVC, Jquery,Azure Logic App/Function App, Azure CosmosDB - NOSQL, Angular JS/Angular 5,
-  NodeJs/Express, HTML/CSS, Github & TFS,.Net Core, Elastic Search Kibana, Entity Framework, MongoDB ,Python with django framework
-- I’m currently learning Solana, Rust and web3 technologies and docker as well.
+  NodeJs/Express, HTML/CSS, Github & TFS,.Net Core, Elastic Search Kibana, Entity Framework, MongoDB ,Python with django framework, Docker
+- I’m currently learning Go.
 - I’m looking for a full-time job opportunity where I can contribute and learn new technologies
 - How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/
 
 ![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiginJayaprakash&hide_progress=true&exclude_repo=portfolio&hide=html,css,handlebars&langs_count=8)
-
-### GitHub Stats
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=JiginJayaprakash" width="600" /></a>
-
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=JiginJayaprakash" width="600" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JiginJayaprakash&rank_icon=github&show_icons=true&theme=ambient_gradient" width="600" />
 
 ## Tech Stack
 <div align="center">
