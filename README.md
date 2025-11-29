@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @JiginJayaprakash
-- I am Software Developer , having experience of more than 8 years in various windows and web development
+- I am a Technical Lead, having experience of more than decade in various windows and web development
 - Worked on various languages like javascript, C#, typescript, Python , SQL
 - And Technologies like ReactJs, MS SQL, Asp.net MVC, Jquery,Azure Logic App/Function App, Azure CosmosDB - NOSQL, Angular JS/Angular 5,
   NodeJs/Express, HTML/CSS, Github & TFS,.Net Core, Elastic Search Kibana, Entity Framework, MongoDB ,Python with django framework, Docker
 - I’m currently learning Go.
 - I’m looking for a full-time job opportunity where I can contribute and learn new technologies
-- How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/
+- How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/ or email : jayaprakash.jigin@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
 
