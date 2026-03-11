@@ -1,38 +1,129 @@
-- 👋 Hi, I’m @JiginJayaprakash
-- I am a Technical Lead, having experience of more than decade in various windows and web development
-- Worked on various languages like javascript, C#, typescript, Python , SQL
-- And Technologies like ReactJs, MS SQL, Asp.net MVC, Jquery,Azure Logic App/Function App, Azure CosmosDB - NOSQL, Angular JS/Angular 5,
-  NodeJs/Express, HTML/CSS, Github & TFS,.Net Core, Elastic Search Kibana, Entity Framework, MongoDB ,Python with django framework, Docker
-- I’m currently learning Go.
-- I’m looking for a full-time job opportunity where I can contribute and learn new technologies
-- How to reach me ... LinkedIn account: https://www.linkedin.com/in/jiginjayaprakash/ or email : jayaprakash.jigin@gmail.com
-
-![](https://komarev.com/ghpvc/?username=JiginJayaprakash&color=blueviolet)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiginJayaprakash&hide_progress=true&exclude_repo=portfolio&hide=html,css,handlebars&langs_count=8)
-
-## Tech Stack
 <div align="center">
-  <code><img width="56" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
-	<code><img width="56" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
-	<code><img width="56" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║          JIGIN JAYAPRAKASH                               ║
+║          Technical Lead · Cloud Architect · AI Systems   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiginjayaprakash/)
+[![Email](https://img.shields.io/badge/%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaprakash.jigin@gmail.com)
+[![Location](https://img.shields.io/badge/%20Mumbai%2C%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+*Designing distributed systems that scale — from architecture blueprints to production.*
+
 </div>
 
+---
 
+## `$ whoami`
 
+I'm a **Technical Lead** with 10+ years engineering cloud-native, AI-integrated platforms for global enterprises. I operate at the intersection of **system architecture**, **engineering leadership**, and **AI/ML integration** — turning complex business problems into reliable, observable, and scalable systems.
+
+Currently leading a cross-geography team of 8 engineers at **NielsenIQ**, owning technical roadmap, architectural guardrails, and delivery across multiple release cadences.
+
+---
+
+## `$ cat architecture.yml`
+
+```yaml
+principles:
+  - Microservices & Domain-Driven Design
+  - Event-Driven Architecture
+  - API-First · Observability-by-Default
+  - Zero-Downtime Deployments
+
+cloud:
+  primary:  Azure  # Functions · App Services · Logic Apps · Cosmos DB
+  learning: AWS
+
+backend:
+  languages: [C#, .NET 8, Python, Go]   # Go → actively building
+  frameworks: [ASP.NET MVC, Django]
+
+frontend:
+  stack: [React.js, Angular, TypeScript]
+  styling: [Tailwind CSS, Bootstrap]
+
+data:
+  search:   [Elasticsearch, Kibana]
+  sql:      [MS SQL Server, PostgreSQL]
+  nosql:    [Azure Cosmos DB, MongoDB]
+  streaming: Kafka   # learning
+
+ai_ml:
+  platforms:  [Azure AI Foundry, Azure AI Vision, Google Vision API]
+  tooling:    [LLM Integration, OCR Pipelines, Ollama, GitHub Copilot]
+
+devops:
+  ci_cd:       [Azure Pipelines, Octopus Deploy]
+  observability: [Structured Logging, Kusto, Performance Dashboards]
+```
+
+---
+
+## `$ grep -r "impact" ./career --count`
+
+<div align="center">
+
+| Metric | Result |
+|:---|:---:|
+| 🔻 Change Failure Rate | **↓ 5%** via architectural guardrails |
+| ⚡ API Latency Improvement | **↓ 80%** through strategic data indexing |
+| 📦 On-Time Delivery Rate | **95%** across release cycles |
+| 👥 Team Scaled | **3 → 8 engineers** across 4 countries |
+| 🚀 Deployment Cadence | **2× / month** zero-downtime releases |
+| 🤖 AI Pipeline Built | OCR + LLM replacing full manual rule-based system |
+| 💰 Azure Cost Reduction | Audit-driven log stream cleanup |
+
+</div>
+
+---
+
+## `$ ls ./projects`
+
+```
+📦 test-dashboard/
+│   ├── Python Django API
+│   ├── React.js frontend
+│   ├── Elasticsearch + PostgreSQL
+│   └── Dockerized · Observability-first architecture
+│
+📦 ecommerce-platform/
+│   ├── MERN Stack (MongoDB · Express · React · Node)
+│   ├── Auth · Payments · Admin workflows
+│   └── Tailwind CSS · B2C marketplace patterns
+```
+
+---
+
+## `$ tail -f ./learning.log`
+
+```
+[ACTIVE]  Go / Golang         ████████░░  building production projects
+[ACTIVE]  Apache Kafka         ██████░░░░  event streaming patterns
+[ACTIVE]  AWS Core Services    █████░░░░░  cloud-agnostic architecture
+[ACTIVE]  LLM Integration      ████████░░  Ollama + local model pipelines
+```
+
+> *Not just tutorials — shipping real projects to reach production-level exposure.*
+
+---
+
+## `$ ping jigin`
+
+Open to conversations on **distributed systems**, **AI-integrated architectures**, and **engineering leadership** at scale.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jiginjayaprakash/)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:jayaprakash.jigin@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Currently @ NielsenIQ · Mumbai, India</sub>
+</div>
